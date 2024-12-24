@@ -2,7 +2,7 @@ name: Deply
 
 on: 
     push:
-        brencks: ["main"]
+        brenches: ["main"]
 
     workflow_dispatch:
 
